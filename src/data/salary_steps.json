@@ -1,0 +1,107 @@
+[
+
+  { "classificationId": 1, "level": 1, "step": 1, "salary": 62871 },
+  { "classificationId": 1, "level": 1, "step": 2, "salary": 64900 },
+  { "classificationId": 1, "level": 1, "step": 3, "salary": 67050 },
+
+  { "classificationId": 1, "level": 2, "step": 1, "salary": 70000 },
+  { "classificationId": 1, "level": 2, "step": 2, "salary": 72500 },
+  { "classificationId": 1, "level": 2, "step": 3, "salary": 75000 },
+
+  { "classificationId": 1, "level": 3, "step": 1, "salary": 79000 },
+  { "classificationId": 1, "level": 3, "step": 2, "salary": 82000 },
+  { "classificationId": 1, "level": 3, "step": 3, "salary": 85000 },
+
+  { "classificationId": 1, "level": 4, "step": 1, "salary": 88261 },
+  { "classificationId": 1, "level": 4, "step": 2, "salary": 92104 },
+  { "classificationId": 1, "level": 4, "step": 3, "salary": 96342 },
+  { "classificationId": 1, "level": 4, "step": 4, "salary": 101673 },
+
+  { "classificationId": 1, "level": 5, "step": 1, "salary": 105000 },
+  { "classificationId": 1, "level": 5, "step": 2, "salary": 109000 },
+  { "classificationId": 1, "level": 5, "step": 3, "salary": 113000 },
+  { "classificationId": 1, "level": 5, "step": 4, "salary": 118000 },
+
+  { "classificationId": 1, "level": 6, "step": 1, "salary": 118000 },
+  { "classificationId": 1, "level": 6, "step": 2, "salary": 123000 },
+  { "classificationId": 1, "level": 6, "step": 3, "salary": 128000 },
+  { "classificationId": 1, "level": 6, "step": 4, "salary": 133000 },
+
+  { "classificationId": 1, "level": 7, "step": 1, "salary": 132000 },
+  { "classificationId": 1, "level": 7, "step": 2, "salary": 137000 },
+  { "classificationId": 1, "level": 7, "step": 3, "salary": 143000 },
+  { "classificationId": 1, "level": 7, "step": 4, "salary": 149000 },
+
+  { "classificationId": 1, "level": 8, "step": 1, "salary": 145000 },
+  { "classificationId": 1, "level": 8, "step": 2, "salary": 150000 },
+  { "classificationId": 1, "level": 8, "step": 3, "salary": 154000 },
+  { "classificationId": 1, "level": 8, "step": 4, "salary": 159046 },
+
+
+  { "classificationId": 2, "level": 1, "step": 1, "salary": 61786 },
+  { "classificationId": 2, "level": 1, "step": 2, "salary": 64135 },
+  { "classificationId": 2, "level": 1, "step": 3, "salary": 66572 },
+
+  { "classificationId": 2, "level": 2, "step": 1, "salary": 70000 },
+  { "classificationId": 2, "level": 2, "step": 2, "salary": 73000 },
+  { "classificationId": 2, "level": 2, "step": 3, "salary": 76000 },
+
+  { "classificationId": 2, "level": 3, "step": 1, "salary": 79000 },
+  { "classificationId": 2, "level": 3, "step": 2, "salary": 82000 },
+  { "classificationId": 2, "level": 3, "step": 3, "salary": 86000 },
+
+  { "classificationId": 2, "level": 4, "step": 1, "salary": 90000 },
+  { "classificationId": 2, "level": 4, "step": 2, "salary": 94000 },
+  { "classificationId": 2, "level": 4, "step": 3, "salary": 98000 },
+
+  { "classificationId": 2, "level": 5, "step": 1, "salary": 103000 },
+  { "classificationId": 2, "level": 5, "step": 2, "salary": 108000 },
+  { "classificationId": 2, "level": 5, "step": 3, "salary": 113000 },
+
+  { "classificationId": 2, "level": 6, "step": 1, "salary": 118000 },
+  { "classificationId": 2, "level": 6, "step": 2, "salary": 123000 },
+  { "classificationId": 2, "level": 6, "step": 3, "salary": 129017 },
+
+
+  { "classificationId": 3, "level": 1, "step": 1, "salary": 61786 },
+  { "classificationId": 3, "level": 1, "step": 2, "salary": 64135 },
+  { "classificationId": 3, "level": 1, "step": 3, "salary": 69106 },
+
+  { "classificationId": 3, "level": 2, "step": 1, "salary": 70000 },
+  { "classificationId": 3, "level": 2, "step": 2, "salary": 73000 },
+  { "classificationId": 3, "level": 2, "step": 3, "salary": 76000 },
+
+  { "classificationId": 3, "level": 3, "step": 1, "salary": 79000 },
+  { "classificationId": 3, "level": 3, "step": 2, "salary": 82000 },
+  { "classificationId": 3, "level": 3, "step": 3, "salary": 85000 },
+
+  { "classificationId": 3, "level": 4, "step": 1, "salary": 90000 },
+  { "classificationId": 3, "level": 4, "step": 2, "salary": 94000 },
+  { "classificationId": 3, "level": 4, "step": 3, "salary": 99000 },
+
+  { "classificationId": 3, "level": 5, "step": 1, "salary": 104000 },
+  { "classificationId": 3, "level": 5, "step": 2, "salary": 109000 },
+  { "classificationId": 3, "level": 5, "step": 3, "salary": 115000 },
+
+
+
+  { "classificationId": 4, "level": 1, "step": 1, "salary": 69361 },
+  { "classificationId": 4, "level": 1, "step": 2, "salary": 72000 },
+  { "classificationId": 4, "level": 1, "step": 3, "salary": 75000 },
+
+  { "classificationId": 4, "level": 2, "step": 1, "salary": 85000 },
+  { "classificationId": 4, "level": 2, "step": 2, "salary": 90000 },
+  { "classificationId": 4, "level": 2, "step": 3, "salary": 95000 },
+
+  { "classificationId": 4, "level": 3, "step": 1, "salary": 105000 },
+  { "classificationId": 4, "level": 3, "step": 2, "salary": 110000 },
+  { "classificationId": 4, "level": 3, "step": 3, "salary": 116000 },
+
+  { "classificationId": 4, "level": 4, "step": 1, "salary": 130000 },
+  { "classificationId": 4, "level": 4, "step": 2, "salary": 135000 },
+  { "classificationId": 4, "level": 4, "step": 3, "salary": 142000 },
+
+  { "classificationId": 4, "level": 5, "step": 1, "salary": 160000 },
+  { "classificationId": 4, "level": 5, "step": 2, "salary": 167000 },
+  { "classificationId": 4, "level": 5, "step": 3, "salary": 174076 }
+]

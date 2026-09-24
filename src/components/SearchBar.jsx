@@ -1,0 +1,1 @@
+import {useState} from "react";import {useNavigate} from "react-router-dom";export default function SearchBar(){const[v,setV]=useState('EC-04');const n=useNavigate();return <div><input value={v} onChange={e=>setV(e.target.value)}/><button onClick={()=>{const p=v.split('-');if(p.length===2)n('/'+p[0].toLowerCase()+'/'+p[1]);}}>Search</button></div>}

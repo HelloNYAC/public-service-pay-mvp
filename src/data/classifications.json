@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "code": "EC",
+    "name": "Economics and Social Science Services"
+  },
+  {
+    "id": 2,
+    "code": "PM",
+    "name": "Programme Administration"
+  },
+  {
+    "id": 3,
+    "code": "AS",
+    "name": "Administrative Services"
+  },
+  {
+    "id": 4,
+    "code": "IT",
+    "name": "Information Technology"
+  }
+]

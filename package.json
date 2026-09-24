@@ -1,0 +1,1 @@
+{"name":"public-service-pay-v2","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"@tailwindcss/vite":"^4.3.3","react":"^19.0.0","react-dom":"^19.0.0","react-router-dom":"^7.0.0","tailwindcss":"^4.3.3"},"devDependencies":{"@vitejs/plugin-react":"^5.0.0","vite":"^7.0.0"}}
